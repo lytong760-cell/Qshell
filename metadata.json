@@ -1,0 +1,6 @@
+{
+  "name": "Qshell",
+  "description": "In-browser web terminal and development environment with dual-execution (browser & cloud), 30+ pre-configured compilers/runtimes, VS Code-styled Qshell Editor, root terminal access, and Firebase & GitHub repository sync.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
